@@ -4,9 +4,7 @@ A comprehensive web application leveraging AI to assist farmers with crop diseas
 
 ## 🎯 Key Features
 
-### 1. **User Authentication System**
-- Email/Password registration and login
-- OTP-based phone number authentication
+### 1. **User Authentication System**
 - Secure session management
 - Personalized user dashboards
 - Activity history tracking
@@ -31,45 +29,41 @@ A comprehensive web application leveraging AI to assist farmers with crop diseas
 - Integrated agricultural product recommendations
 - In-app purchase and e-commerce integration
 
-### 5. **AI-Generated Video Guides**
-- Instructional videos for treatments
-- Language-adaptive video content
-- Easy-to-understand tutorials
-- Embedded video player
 
-### 6. **Crop Recommendation System**
+
+### 5. **Crop Recommendation System**
 - Location-based crop suggestions
 - Real-time weather data integration
 - Forecasted weather analysis
 - Soil compatibility considerations
 - Seasonal trend analysis
 
-### 7. **Crop Storage Guidance**
+### 6. **Crop Storage Guidance**
 - Post-harvest storage instructions
 - Temperature and humidity guidelines
 - Container type recommendations
 - Shelf-life optimization techniques
 
-### 8. **Multi-Language Support**
+### 7. **Multi-Language Support**
 - English, Telugu, Kannada, Tamil, Malayalam, Spanish, French
 - Dynamic UI translation
 - AI response translation
 - Voice assistant multilingual support
 
-### 9. **Live Crop Price Tracking**
+### 8. **Live Crop Price Tracking**
 - Real-time market prices
 - Regional price comparison
 - Optimal selling time recommendations
 - Agricultural market insights
 
-### 10. **Persistent Database Integration**
+### 9. **Persistent Database Integration**
 - User profiles and preferences
 - Analysis results storage
 - Saved recommendations
 - Language preferences
 - Activity history
 
-### 11. **AI Voice Assistant**
+### 10. **AI Voice Assistant**
 - Voice query support
 - Feature navigation via voice
 - Speech-to-text conversion
